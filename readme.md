@@ -29,6 +29,7 @@
 cd into your directory
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1  
+```
 
 ### 2. Install Python Libs
 python -m pip install --upgrade pip
